@@ -3,7 +3,6 @@ package pooHeranca;
 public class TestaClasses {
 
 	public static void main(String[] args) {
-
 		Estudante e = new Estudante("Maria", 20, "maria@email.com", "2026A", "Computação");
 		Instrutor i = new Instrutor("Carlos", 35, "carlos@email.com", "Java");
 

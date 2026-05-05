@@ -1,6 +1,6 @@
 package pooHeranca;
 
-public class Pessoa {  // Super Classe ou Classe mae
+public class Pessoa  {  // Super Classe ou Classe mae
 
 	private String nome;
     private int idade;
@@ -11,8 +11,11 @@ public class Pessoa {  // Super Classe ou Classe mae
 		this.nome = nome;
 		this.idade = idade;
 		this.email = email;
+	
 	}
 
+	
+	
 	public String getNome() {
 		return nome;
 	}
